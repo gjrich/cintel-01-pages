@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://claude.ai)
 
 Images look like links except with an exclamation directly in front
 
-![Random Screenshot](https://github.com/gjrich/cintel-01-pages/blob/main/Screenshot%202024-10-21%20111044.png)
+![Random Screenshot](/cintel-01-pages/Screenshot%202024-10-21%20111044.png)
 
 ## Reminders
 
